@@ -1,16 +1,19 @@
-# xylophone_by_sastha
+# Xylophone_by_sastha🎹
 
-A new Flutter project.
+We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are.
 
-## Getting Started
+# What you will learn
 
-This project is a starting point for a Flutter application.
+How to incorporate open source libraries of code into your project using Flutter Packages.
 
-A few resources to get you started if this is your first Flutter project:
+How to play sound on both iOS and Android.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+How to generate repeated user interface Widgets.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to use Dart functions that can take input arguments as well as return an output.
+
+What is the difference between var, const and final in Dart.
+
+How to use Dart lists.
+
+How to loop through code using a Dart for loop.
